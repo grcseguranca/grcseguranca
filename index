@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GRC Segurança Eletrônica</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>GRC Segurança Eletrônica</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#services">Serviços</a></li>
+                <li><a href="#products">Produtos</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>Sobre a GRC Segurança Eletrônica</h2>
+            <p>A GRC Segurança Eletrônica é especializada em serviços de instalação elétrica residencial, câmeras de segurança, alarmes, portões eletrônicos e cercas elétricas. Com 9 anos de experiência no mercado, oferecemos soluções completas e integradas para garantir a segurança do seu lar e da sua empresa.</p>
+            <p>Nossa missão é proporcionar tranquilidade e proteção para nossos clientes através de produtos de alta qualidade e um atendimento excepcional. Utilizamos os melhores produtos Intelbras para garantir eficiência e durabilidade em nossos serviços.</p>
+        </section>
+
+        <section id="services">
+            <h2>Nossos Serviços</h2>
+            <ul>
+                <li>Instalação Elétrica Residencial</li>
+                <li>Instalação de Câmeras</li>
+                <li>Alarmes</li>
+                <li>Portão Eletrônico</li>
+                <li>Cerca Elétrica</li>
+            </ul>
+        </section>
+
+        <section id="products">
+            <h2>Produtos Intelbras</h2>
+            <div class="product-category">
+                <h3>Câmeras de Segurança</h3>
+                <div class="product-gallery">
+                    <img src="images/camera1.jpg" alt="Câmera Intelbras 1">
+                    <img src="images/camera2.jpg" alt="Câmera Intelbras 2">
+                </div>
+            </div>
+            <div class="product-category">
+                <h3>Porteiro Eletrônico</h3>
+                <div class="product-gallery">
+                    <img src="images/porteiro1.jpg" alt="Porteiro Eletrônico 1">
+                    <img src="images/porteiro2.jpg" alt="Porteiro Eletrônico 2">
+                </div>
+            </div>
+            <div class="product-category">
+                <h3>Alarmes</h3>
+                <div class="product-gallery">
+                    <img src="images/alarme1.jpg" alt="Alarme 1">
+                    <img src="images/alarme2.jpg" alt="Alarme 2">
+                </div>
+            </div>
+            <div class="product-category">
+                <h3>Cerca Elétrica</h3>
+                <div class="product-gallery">
+                    <img src="images/cerca1.jpg" alt="Cerca Elétrica 1">
+                    <img src="images/cerca2.jpg" alt="Cerca Elétrica 2">
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contato</h2>
+            <p>Para orçamentos, entre em contato pelo telefone ou e-mail:</p>
+            <p>Telefone: <a href="tel:+5531997145332">(31) 99714-5332</a></p>
+            <p>Email: <a href="mailto:grcsegurancaeletronica@gmail.com">grcsegurancaeletronica@gmail.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 GRC Segurança Eletrônica</p>
+    </footer>
+
+    <a href="https://wa.me/5531997145332" class="whatsapp" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
